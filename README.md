@@ -1,8 +1,6 @@
-<img src="https://media-exp3.licdn.com/dms/image/C4D16AQHmlmRyS3Hlmg/profile-displaybackgroundimage-shrink_350_1400/0/1626198333163?e=1631750400&v=beta&t=UyXwdIRKjLoV6qwk21e8TeTIvPi92sYN46et4ktcES0">
+<img src="https://media-exp3.licdn.com/dms/image/C4D16AQHmlmRyS3Hlmg/profile-displaybackgroundimage-shrink_350_1400/0/1626198333163?e=1631750400&v=beta&t=UyXwdIRKjLoV6qwk21e8TeTIvPi92sYN46et4ktcES0" alt="header">
 <h1 align="center">Hi, I'm Marília 🙋🏻‍♀️</h1>
 <h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maricegalla&label=Profile%20views&color=0e75b6&style=flat" alt="maricegalla" /> </p>
 
 
 - 👩🏻‍🎓 I’m currently studing **at Trybe**
@@ -26,4 +24,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&show_icons=true&locale=en" alt="maricegalla" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maricegalla&" alt="maricegalla" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maricegalla&label=Profile%20views&color=0e75b6&style=flat" alt="maricegalla" /> </p>
+
 
