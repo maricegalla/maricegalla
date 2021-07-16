@@ -3,7 +3,9 @@
 <h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
 
 
-- 👩🏻‍🎓 I’m currently studing **at Trybe**
+- 👩🏻‍🎓 Full Stack Developer student **at Trybe**
+
+- 👩🏻‍🔧 Mechanical Engineer
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
