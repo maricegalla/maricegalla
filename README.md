@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
-- 📫 Reach me **maricegalla@gmail.com**
+- 📫 Reach me at **maricegalla@gmail.com**
+
+- 📔 Access my portfolio on [https://maricegalla.wixsite.com/portifolio](https://maricegalla.wixsite.com/portifolio)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marilia-aldrighi/](https://www.linkedin.com/in/marilia-aldrighi/)
 
