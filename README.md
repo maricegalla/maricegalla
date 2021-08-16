@@ -7,7 +7,7 @@
 
 - 👩🏻‍🔧 Mechanical Engineer
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React & SQL**
 
 - 📫 Reach me at **maricegalla@gmail.com**
 
