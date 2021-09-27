@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://docs.google.com/uc?id=1ribCSaBYIkYc4b0m-WnAF4F18LPp0Uz5" alt="header"> </p>
 <h1 align="center">Hi, I'm Marília 🙋🏻‍♀️<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
+<h3 align="center">A Front-End developer from Brasil</h3>
 <br>
 
 - 👩🏻‍🎓 Full Stack Developer student [**at Trybe**](https://www.betrybe.com)
@@ -13,7 +13,7 @@
 
 - 📔 Access my portfolio [**here**](https://maricegalla.wixsite.com/portifolio)
 
-- 📄 Know more about my experiences on [**LinkedIn**](https://www.linkedin.com/in/marilia-aldrighi/) profile
+- 📄 Know more about my experiences on my  <a href="https://www.linkedin.com/in/marilia-aldrighi/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Marília Cegalla Aldrighi" width="20" height="20"/> </a>  profile
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
