@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://docs.google.com/uc?id=1ribCSaBYIkYc4b0m-WnAF4F18LPp0Uz5" alt="header"> </p>
 <h1 align="center">Hi, I'm Marília 🙋🏻‍♀️<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A Front-End developer from Brasil</h3>
+<h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
 <br>
 
 - 👩🏻‍🎓 Full Stack Developer student [**at Trybe**](https://www.betrybe.com)
@@ -8,6 +8,8 @@
 - 👩🏻‍🔧 Mechanical Engineer
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, MongoDB & NodeJS**
+
+- 🗣️ Languages: 🇧🇷 🇺🇸 🇪🇸
 
 - 📫 Reach me at **maricegalla@gmail.com**
 
