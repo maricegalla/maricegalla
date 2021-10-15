@@ -3,9 +3,9 @@
 <h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
 <br>
 
-- 👩🏻‍🎓 Full Stack Developer student [**at Trybe**](https://www.betrybe.com)
+- 👩🏻‍🎓 Full Stack Developer student at [**Trybe**](https://www.betrybe.com)
 
-- 👩🏻‍💻 Developer [**at Sambatech**](https://sambatech.com/)
+- 👩🏻‍💻 Developer in [**Sambatech**](https://sambatech.com/)
 
 - 👩🏻‍🔧 Mechanical Engineer
 
