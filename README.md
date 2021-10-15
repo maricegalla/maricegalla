@@ -5,7 +5,7 @@
 
 - 👩🏻‍🎓 Full Stack Developer student at [**Trybe**](https://www.betrybe.com)
 
-- 👩🏻‍💻 Developer in [**Sambatech**](https://sambatech.com/)
+- 👩🏻‍💻 Dev in [**Sambatech**](https://sambatech.com/)
 
 - 👩🏻‍🔧 Mechanical Engineer
 
