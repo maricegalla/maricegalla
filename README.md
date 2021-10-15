@@ -5,6 +5,8 @@
 
 - 👩🏻‍🎓 Full Stack Developer student [**at Trybe**](https://www.betrybe.com)
 
+- 👩🏻‍💻 Developer [**at Sambatech**](https://sambatech.com/)
+
 - 👩🏻‍🔧 Mechanical Engineer
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, MongoDB & NodeJS**
@@ -12,8 +14,6 @@
 - 🗣️ Languages: 🇧🇷 🇺🇸 🇪🇸
 
 - 📫 Reach me at **maricegalla@gmail.com**
-
-- 📔 Access my portfolio [**here**](https://maricegalla.wixsite.com/portifolio)
 
 - 📄 Know more about my experiences on my  <a href="https://www.linkedin.com/in/marilia-aldrighi/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Marília Cegalla Aldrighi" width="20" height="20"/> </a>  profile
 
