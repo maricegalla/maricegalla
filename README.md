@@ -44,11 +44,16 @@
 <a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<br>
+
+<p align="center">
+ <a href="https://www.credly.com/badges/21fa3506-2a80-4564-9b9b-6de6a3d38d3f/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144897961-27cf6d56-bd97-4ae5-93cf-ff7f3e940a49.png" alt="maricegalla" /> </a>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact" alt="maricegalla" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&theme=blueberry&show_icons=true&locale=en" alt="maricegalla" /></p>
+<p align="center">&nbsp;
+ <a href="https://www.credly.com/badges/21fa3506-2a80-4564-9b9b-6de6a3d38d3f/public_url"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&theme=blueberry&show_icons=true&locale=en" alt="maricegalla" /></a>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maricegalla&theme=blueberry" alt="maricegalla" /></p>
 <br>
