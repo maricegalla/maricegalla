@@ -15,6 +15,8 @@
 
 - 📫 Reach me at **maricegalla@gmail.com**
 
+- 📖 Access my [**portfolio**](https://maricegalla.github.io/portfolio/)
+
 - 📄 Know more about my experiences on my  <a href="https://www.linkedin.com/in/marilia-aldrighi/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Marília Cegalla Aldrighi" width="20" height="20"/> </a>  profile
 
 <br>
