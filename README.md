@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://docs.google.com/uc?id=1ribCSaBYIkYc4b0m-WnAF4F18LPp0Uz5" alt="header"> </p>
 <h1 align="center">Hi, I'm Marília 🙋🏻‍♀️<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A Front-End developer from Brasil 🇧🇷</h3>
+<h3 align="center">A Full Stack developer from Brasil 🇧🇷</h3>
 <br>
 
 - 👩🏻‍🎓 Full Stack Developer student at [**Trybe**](https://www.betrybe.com)
@@ -53,13 +53,13 @@
  <a href="https://www.credly.com/badges/1ced2ed4-b681-46bf-bdca-60898b654ed6/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144898869-f88f1b42-0466-40d7-a4c1-1af19c5d86a7.png" alt="kanbanBadge" /> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact" alt="maricegalla" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact&bg_color=22272E&hide_border=true" alt="maricegalla" /></p>
 
 <p align="center">&nbsp;
- <a href="https://www.credly.com/badges/21fa3506-2a80-4564-9b9b-6de6a3d38d3f/public_url"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&theme=blueberry&show_icons=true&locale=en" alt="maricegalla" /></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&theme=blueberry&show_icons=true&locale=en&bg_color=22272E&hide_border=true" alt="maricegalla" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maricegalla&theme=blueberry" alt="maricegalla" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maricegalla&theme=blueberry&hide_border=true&background=22272E" alt="maricegalla" /></p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maricegalla&label=Profile%20views&color=0e75b6&style=flat" alt="maricegalla" /> </p>
 
