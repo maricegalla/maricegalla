@@ -48,6 +48,8 @@
 </p>
 
 <p align="center">
+ <a href="https://www.credly.com/badges/5a800fe9-530a-4b3c-800b-75afb9213685/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/153725989-41693e18-cd88-4543-821e-a0e455d6f053.png" alt="lifeLongLearning" /> </a>
+ &nbsp
  <a href="https://www.credly.com/badges/21fa3506-2a80-4564-9b9b-6de6a3d38d3f/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144897961-27cf6d56-bd97-4ae5-93cf-ff7f3e940a49.png" alt="remoteWorkBadge" /> </a>
  &nbsp
  <a href="https://www.credly.com/badges/1ced2ed4-b681-46bf-bdca-60898b654ed6/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144898869-f88f1b42-0466-40d7-a4c1-1af19c5d86a7.png" alt="kanbanBadge" /> </a>
@@ -62,4 +64,3 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maricegalla&theme=blueberry&hide_border=true&background=22272E" alt="maricegalla" /></p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maricegalla&label=Profile%20views&color=0e75b6&style=flat" alt="maricegalla" /> </p>
-
