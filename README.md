@@ -55,7 +55,7 @@
  <a href="https://www.credly.com/badges/1ced2ed4-b681-46bf-bdca-60898b654ed6/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144898869-f88f1b42-0466-40d7-a4c1-1af19c5d86a7.png" alt="kanbanBadge" /> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact&bg_color=22272E&hide_border=true" alt="maricegalla" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact&bg_color=ffffff00&hide_border=true" alt="maricegalla" /></p>
 
 <p align="center">&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&theme=blueberry&show_icons=true&locale=en&bg_color=ffffff00&hide_border=true" alt="maricegalla" />
