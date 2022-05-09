@@ -3,9 +3,7 @@
 <h3 align="center">A Full Stack developer from Brasil 🇧🇷</h3>
 <br>
 
-- 👩🏻‍🎓 Full Stack Developer student at [**Trybe**](https://www.betrybe.com)
-
-- 👩🏻‍💻 Dev at [**Conta Azul**](https://contaazul.com/)
+- 👩🏻‍💻 Front-End Dev at [**Conta Azul**](https://contaazul.com/)
 
 - 👩🏻‍🔧 Mechanical Engineer
 
