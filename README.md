@@ -3,11 +3,11 @@
 <h3 align="center">A Full Stack developer from Brasil 🇧🇷</h3>
 <br>
 
-- 👩🏻‍💻 Front-End Dev at [**Conta Azul**](https://contaazul.com/)
+- 👩🏻‍💻 Front-End Developer at [**Conta Azul**](https://contaazul.com/)
 
 - 👩🏻‍🔧 Mechanical Engineer
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, MongoDB & NodeJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, SQL**
 
 - 🗣️ Languages: 🇧🇷 🇺🇸 🇪🇸
 
