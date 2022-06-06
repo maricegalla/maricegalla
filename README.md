@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://drive.google.com/uc?export=view&id=1Nns6_IK5rz7gzxZuWjPAOB63Mb4f8mis" alt="header"> </p>
-<h1 align="center">Hi, I'm Marília 🙋🏻‍♀️<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Marília 🙋</h1>
 <h3 align="center">A Full Stack developer from Brasil 🇧🇷</h3>
 <br>
 
