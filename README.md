@@ -46,14 +46,14 @@
 </p>
 
 <p align="center">
- <a href="https://www.credly.com/badges/5a800fe9-530a-4b3c-800b-75afb9213685/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/153725989-41693e18-cd88-4543-821e-a0e455d6f053.png" alt="lifeLongLearningBadge" /> </a>
+ <a href="https://www.credly.com/badges/5a800fe9-530a-4b3c-800b-75afb9213685/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/153725989-41693e18-cd88-4543-821e-a0e455d6f053.png" width="100" height="100" alt="lifeLongLearningBadge" /> </a>
  &nbsp
- <a href="https://www.credly.com/badges/21fa3506-2a80-4564-9b9b-6de6a3d38d3f/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144897961-27cf6d56-bd97-4ae5-93cf-ff7f3e940a49.png" alt="remoteWorkBadge" /> </a>
+ <a href="https://www.credly.com/badges/21fa3506-2a80-4564-9b9b-6de6a3d38d3f/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144897961-27cf6d56-bd97-4ae5-93cf-ff7f3e940a49.png" width="100" height="100" alt="remoteWorkBadge" /> </a>
  &nbsp
- <a href="https://www.credly.com/badges/1ced2ed4-b681-46bf-bdca-60898b654ed6/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144898869-f88f1b42-0466-40d7-a4c1-1af19c5d86a7.png" alt="kanbanBadge" /> </a>
+ <a href="https://www.credly.com/badges/1ced2ed4-b681-46bf-bdca-60898b654ed6/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/144898869-f88f1b42-0466-40d7-a4c1-1af19c5d86a7.png" width="100" height="100" alt="kanbanBadge" /> </a>
   &nbsp
- <a href="https://www.credly.com/badges/883afaf2-a070-4005-878e-c2ea3e98f820/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/153728490-e5469c2a-7415-42a4-9875-b84e125966eb.png" alt="lgpdBadge" /> </a>
-  <a href="https://www.credly.com/badges/aec3f3bd-5080-4c1e-b417-b4c541f7f328/public_url" target="_blank"> <img src="https://i.ibb.co/SQC54Rk/scrum-foundation-professional-certificate-sfpc-1.png" alt="scrumBadge" /> </a>
+ <a href="https://www.credly.com/badges/883afaf2-a070-4005-878e-c2ea3e98f820/public_url" target="_blank"> <img src="https://user-images.githubusercontent.com/76533793/153728490-e5469c2a-7415-42a4-9875-b84e125966eb.png" width="100" height="100" alt="lgpdBadge" /> </a>
+  <a href="https://www.credly.com/badges/aec3f3bd-5080-4c1e-b417-b4c541f7f328/public_url" target="_blank"> <img src="https://i.ibb.co/SQC54Rk/scrum-foundation-professional-certificate-sfpc-1.png" width="100" height="100" alt="scrumBadge" /> </a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact&bg_color=ffffff00&hide_border=true" alt="maricegalla" /></p>
