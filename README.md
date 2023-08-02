@@ -7,7 +7,7 @@
 
 - 👩🏻‍🔧 Mechanical Engineer
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, VueJs💚**
 
 - 🗣️ Languages: 🇧🇷 🇺🇸 🇪🇸
 
