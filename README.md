@@ -58,10 +58,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricegalla&theme=blueberry&show_icons=true&locale=en&layout=compact&bg_color=ffffff00&hide_border=true" alt="maricegalla" /></p>
 
-<p align="center">&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maricegalla&theme=blueberry&show_icons=true&locale=en&bg_color=ffffff00&hide_border=true" alt="maricegalla" />
-</p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maricegalla&theme=blueberry&hide_border=true&background=ffffff00" alt="maricegalla" /></p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maricegalla&label=Profile%20views&color=0e75b6&style=flat" alt="maricegalla" /> </p>
